@@ -13,7 +13,7 @@ func main() {
 ```
 `go run main.go`
 
->Hola! Aquí está el material del curso.
+>¡Hola! Aquí está el material del curso.
 
 ## Sobre este respositorio
 Ejemplos del lenguaje de programación Go(Golang). \
